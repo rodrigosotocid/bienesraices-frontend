@@ -18,21 +18,35 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
-    ```shell
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
-    ```
+```shell
+   npm i @emotion/core @emotion/styled gatsby-plugin-emotion
+```
 
+```shell
+   npm run strapi install graphql
+```
+```shell
+   npm i -g gatsby-cli
+```
+```shell
+   gatsby new bienesraicesfrontend
+```
+```shell
+   gatsby develop
+```
 1.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+```shell
+   xxxxxxxxxxx
+```
+```shell
+   xxxxxxxxxxx
+```
+```shell
+   xxxxxxxxxxx
+```
 
-    ```shell
-    cd my-default-starter/
-    gatsby develop
-    ```
-
-1.  **Open the source code and start editing!**
+2.  **Open the source code and start editing!**
 
     Your site is now running at `http://localhost:8000`!
 
