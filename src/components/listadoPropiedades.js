@@ -13,8 +13,6 @@ const ListadoPropiedades = () => {
 
   // Filtrado de propiedades 
   const { categoria, FiltroUI } = useFiltro();
-  console.log(categoria);
-  console.log(resultado);
 
   useEffect(() => {
     if (categoria) {
@@ -23,7 +21,7 @@ const ListadoPropiedades = () => {
     } else {
       guardarFiltradas(propiedades);
     }
-  }, [categoria])
+  }, [categoria, propiedades])
 
   return (
     <>
