@@ -15,7 +15,6 @@ const ImagenBackground = styled(BackgroundImage)`
 const Index = () => {
 
   const inicio = useInicio();
-
   const { nombre, contenido, imagen } = inicio[0];
 
   return (

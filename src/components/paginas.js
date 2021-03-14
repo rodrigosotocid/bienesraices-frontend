@@ -42,7 +42,6 @@ const Paginas = ({ data: { allStrapiPaginas: { nodes } } }) => {
   return (
     <Layout>
 
-
       <main className="contenedor">
         <h1>{nombre}</h1>
         <ContenidoPagina>
@@ -58,7 +57,6 @@ const Paginas = ({ data: { allStrapiPaginas: { nodes } } }) => {
       {nombre === "Propiedades" && (
         <ListadoPropiedades />
       )}
-
 
     </Layout>
   );

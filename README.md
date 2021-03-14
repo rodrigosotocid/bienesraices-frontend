@@ -98,8 +98,7 @@ Un rápido vistazo a los archivos y directorios de nivel superior que verás en 
 
 ## 💫 Deploy
 
-[Aquí puedes ver el Deploy y funcionalidad de esta aplicación.](https://www.gatsbyjs.com/cloud/)
+[Aquí puedes ver el Deploy y funcionalidad de esta aplicación.](https://bienesraices-with-gatsby.netlify.app/)
 
-Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->

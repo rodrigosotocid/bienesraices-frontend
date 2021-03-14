@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/layout'
 
-const Erro404 = () => {
+const Error404 = () => {
   return (
     <Layout>
       <h1>Ha habido un error fatal!</h1>
@@ -9,4 +9,4 @@ const Erro404 = () => {
   );
 }
 
-export default Erro404;
+export default Error404;
