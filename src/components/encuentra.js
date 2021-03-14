@@ -28,6 +28,7 @@ const Encuentra = () => {
       tag="section"
       fluid={imagen.sharp.fluid}
       fadeIn="soft"
+      alt="Bienes Raíces - Encuentra la casa de tus sueños"
     >
       <div className={imagenbg}>
         <h3 className={titulo}>Encuentra la casa de tus sueños</h3>

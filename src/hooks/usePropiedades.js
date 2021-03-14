@@ -23,7 +23,7 @@ const usePropiedades = () => {
               }
               imagen {
                 sharp: childImageSharp{
-                  fluid(maxWidth: 600, maxHeight: 400){
+                  fluid(maxWidth: 600){
                     ...GatsbyImageSharpFluid_withWebp
                   }
                 }
@@ -32,6 +32,13 @@ const usePropiedades = () => {
           }
         }
   `);
+
+  /* 
+  con "maxHeight: 400" la imagen rendeiza borrosa
+  fluid(maxWidth: 600, maxHeight: 400){
+    ...GatsbyImageSharpFluid_withWebp
+  }
+  */
 
   return datos.allStrapiPropiedades.nodes.map(propiedad => ({
     nombre: propiedad.nombre,

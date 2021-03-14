@@ -25,6 +25,7 @@ const Index = () => {
         tag="section"
         fluid={imagen.sharp.fluid}
         fadeIn="soft"
+        alt={nombre}
       >
         <div className={imagenbg}>
           <h1 className={titulo}> Venta de casas y departamentos exclusivos </h1>
