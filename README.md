@@ -54,7 +54,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🧐 Estructura de nuestro proyecto con Gatsby
+## 🧐 Estructura del proyecto Web de Bienes Raíces con Gatsby
 
 Un rápido vistazo a los archivos y directorios de nivel superior que verás en un proyecto Gatsby..
 
