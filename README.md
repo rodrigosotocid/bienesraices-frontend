@@ -37,7 +37,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 1.  **Start developing.**
 
 ```shell
-   xxxxxxxxxxx
+   npm i gatsby-background-image
 ```
 ```shell
    xxxxxxxxxxx
